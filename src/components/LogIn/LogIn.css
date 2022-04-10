@@ -1,0 +1,65 @@
+.login-container {
+    width: 500px;
+    border: 3px solid #95A0A7;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 20px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+    border-radius: 10px;
+}
+
+.input-group label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.input-group input {
+    display: block;
+    margin-bottom: 10px;
+    width: 415px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.login-button {
+    width: 423px;
+    height: 60px;
+    font-size: 20px;
+    background-color: #FF99004D;
+    border: none;
+    border-radius: 5px;
+}
+
+.google-button {
+    width: 423px;
+    height: 60px;
+    font-size: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #95A0A7;
+}
+
+.hr-line {
+    border: 2px solid #d1cccc;
+    width: 150px;
+}
+
+.hr-line-container {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.new-accoutn-cont {
+    margin-top: 10px;
+}
